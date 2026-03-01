@@ -12,30 +12,34 @@ J'étudies et propose des solutions de cybersécurité avancées, des outils bas
 
 
 ### 📊 [ELK SIEM Lab](https://##)  
-![Build Badge](https://img.shields.io/badge/Build-Passing-brightgreen)  
+![Badge](https://img.shields.io/badge/blue-team-blue)
+ 
 Plateforme SIEM centralisée pour l'agrégation, la corrélation et la détection des menaces dans les journaux.
 
 - Détection et surveillance des menaces
 - Visualisation des journaux
 - Alertes automatisées  
 
-### GOUVERNANCE, RISQUES ET CONFORMITÉ
-
+### [GOUVERNANCE, RISQUES ET CONFORMITÉ](https://##)
+![Badge](https://img.shields.io/badge/blue-team-blue)
 - Gestion des identités et des accès
 - Gestion des risques basée sur la méthodologie EBIOS RM et les outils de pilotage
 - Mise en oeuvre d'un SMSI pour une entreprise fictive et outils de pilotage
 
 ---
 ## COMPETENCES TECHNIQUES
-
+![Badge](https://img.shields.io/badge/Blue-Team-blue)
 - Cybersécurité et cyberdéfense
 - IA et automatisation
 - Docker et déploiement
 - Orchestration de la sécurité et SIEM
-- Threat Intelligence & tests d'intrusion 
+- Threat Intelligence
+
+![Badge](https://img.shields.io/badge/Red-Team-red)
+- Tests d'intrusion 
 
 ---
-## 📈 STACK TECHNIQUE & OUTILS
+## 📈 STACK TECHNIQUE, REFERENTIELS & OUTILS
 
 ### Réseau
 <div>
@@ -63,7 +67,7 @@ Plateforme SIEM centralisée pour l'agrégation, la corrélation et la détectio
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
 </div>   
 
-### Aadministration Sytème & Cloud
+### Administration Sytème & Cloud
 <div>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali-linux%23557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white"/>
@@ -71,6 +75,19 @@ Plateforme SIEM centralisée pour l'agrégation, la corrélation et la détectio
   
 </div>         
 
+### GRC
+<div>
+<img src="https://img.shields.io/badge/CISO_Assistant-1F2937?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/EBIOS_RM-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO_27001-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO_27002-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO_27005-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NIST-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/DORA-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RGPD-1E3A8A?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NIS_2-1E3A8A?style=for-the-badge&logoColor=white" />
+  
+</div>    
 ---
 
 ## Certifications & Trainings
