@@ -26,6 +26,14 @@ Plateforme SIEM centralisée pour l'agrégation, la corrélation et la détectio
 - Gestion des risques basée sur la méthodologie EBIOS RM et les outils de pilotage
 - Mise en oeuvre d'un SMSI pour une entreprise fictive et outils de pilotage
 
+### [Fake Remote IT Workers & Impersonation](https://##)
+![Badge](https://img.shields.io/badge/blue-team-blue)
+- Collecter cas publics DPRK fake workers
+- Automatiser extraction profils et identités. Ces donnée seront collectés et exploités dans un outil dédié
+- Créer scoring crédibilité profils
+- Modéliser risques supply chain humaine
+- Produire recommandations RH/sécurité
+
 ---
 ## COMPETENCES TECHNIQUES
 ![Badge](https://img.shields.io/badge/Blue-Team-blue)
