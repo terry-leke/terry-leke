@@ -20,12 +20,15 @@ Plateforme SIEM centralisée pour l'agrégation, la corrélation et la détectio
 - Visualisation des journaux
 - Alertes automatisées  
 
-### [GOUVERNANCE, RISQUES ET CONFORMITÉ](https://##)
-![Badge](https://img.shields.io/badge/blue-team-blue)
-- Gestion des identités et des accès
-- Gestion des risques basée sur la méthodologie EBIOS RM et les outils de pilotage
-- Mise en oeuvre d'un SMSI pour une entreprise fictive et outils de pilotage
+### GOURVENACE, RISQUES ET CONFORMITE
 
+### [Gestion des identités et des accès](https://##)
+
+### [Gestion des risques basée sur la méthodologie EBIOS RM et les outils de pilotage](https://##)
+
+### [Mise en oeuvre d'un SMSI pour une entreprise fictive et outils de pilotage](https://##)
+
+### OSINT & CTI
 ### [Fake Remote IT Workers & Impersonation](https://##)
 ![Badge](https://img.shields.io/badge/blue-team-blue)
 - Collecter cas publics DPRK fake workers
@@ -34,6 +37,10 @@ Plateforme SIEM centralisée pour l'agrégation, la corrélation et la détectio
 - Modéliser risques supply chain humaine
 - Produire recommandations RH/sécurité
 
+### CHAINES DE CONFIANCE
+### [Mise en oeuvre d'une infrastructure de gestion des clés](https://##)
+
+- C
 ---
 ## COMPETENCES TECHNIQUES
 ![Badge](https://img.shields.io/badge/Blue-Team-blue)
