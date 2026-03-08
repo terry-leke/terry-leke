@@ -37,7 +37,7 @@ Plateforme SIEM centralisée pour l'agrégation, la corrélation et la détectio
 - Modéliser risques supply chain humaine
 - Produire recommandations RH/sécurité
 
-### CHAINES DE CONFIANCE
+### SOLUTIONS DE SECURITE, CHAINE DE CONFIANCE, CONTROLE D’ACCES ET GESTION DES IDENTITES
 ### [Mise en oeuvre d'une infrastructure de gestion des clés](https://##)
 
 - C
