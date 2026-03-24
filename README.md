@@ -29,7 +29,7 @@ Plateforme SIEM centralisée pour l'agrégation, la corrélation et la détectio
 ### [Mise en oeuvre d'un SMSI pour une entreprise fictive et outils de pilotage](https://##)
 
 ### OSINT & CTI
-### [Fake Remote IT Workers & Impersonation](https://##)
+### [Fake Remote IT Workers & Impersonation](https://github.com/terry-leke/Fake-Remote-IT-Workers-Impersonation)
 ![Badge](https://img.shields.io/badge/blue-team-blue)
 - Collecter cas publics DPRK fake workers
 - Automatiser extraction profils et identités. Ces donnée seront collectés et exploités dans un outil dédié
